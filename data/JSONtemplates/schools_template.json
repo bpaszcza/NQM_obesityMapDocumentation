@@ -1,0 +1,29 @@
+{
+	"_id": "",
+	"name": "",
+	"msoa": "",
+	"address": {
+		"street": "",
+		"city": "",
+		"postcode": ""
+	},
+	"coordinates": {
+		"easting": "",
+		"northing": ""
+	},
+	"localAuthority": {
+		"LACode": "",
+		"oldLACode": "",
+		"LAName": ""
+	},
+	"schoolInfo": {
+		"numberOfPupils": "",
+		"websiteURL": "",
+		"percentageFreeSchoolMeals": "",
+		"ofstedLastInsp": "",
+		"ofstedSpecialMeasures": "",
+		"urbanRural": ""
+	},
+	"establishmentStatus": "",
+	"phaseOfEducation": ""
+}

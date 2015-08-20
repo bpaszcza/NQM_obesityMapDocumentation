@@ -1,0 +1,54 @@
+{
+	"_id": "",
+	"msoaName": "",
+	"localAuthority":{
+		"LACode": "",
+		"LAName": ""
+	},
+	"dateTaken": "2011",
+	"children": {
+		"percObeseReception": "",
+		"percExcessWeightReception": "",
+		"percObeseYr6": "",
+		"percExcessWeightYr6": "",
+		"developmentAt5": "",
+		"GCSEAchievement": ""
+	},
+	"adults": {
+		"percObese": "",
+		"percHealthyEating": ""
+	},
+	"community": {
+		"incomeDeprivation": {
+			"absolute": "",
+			"perc": ""
+		},
+		"childPoverty": {
+			"absolute": "",
+			"perc": ""
+		},
+		"blackAndMinorityPopulation": "",
+		"notWhiteUKPopulation": "",
+		"percEnglishProficiency": "",
+		"unemployment": "",
+		"householdsCentralHeating": ""
+	},
+	"lifeExpectancy": {
+		"maleAtBirth": "",
+		"femaleAtBirth": ""
+	},
+	"health":{
+		"statistics":{
+			"badAndVeryBad": "",
+			"veryBad": ""
+		},
+		"deaths":{
+			"circulatoryAllAge": "",
+			"circulatoryAbove75Age": "",
+			"coronaryHeartAllAge": "",
+			"coronaryHeartAbove75Age": "",
+			"strokeAllAge": "",
+			"respiratoryAllAge": ""
+		}
+	}
+}

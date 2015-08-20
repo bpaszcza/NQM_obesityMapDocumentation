@@ -1,0 +1,15 @@
+{
+	"_id": "",
+	"name": "",
+	"type": "",
+	"address": {
+		"street": "",
+		"city": "",
+		"postcode": ""
+	},
+	"coordinates": {
+		"easting": "",
+		"northing": ""
+	},
+	"websiteURL": ""
+}
